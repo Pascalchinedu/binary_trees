@@ -1,4 +1,4 @@
-# binary_trees
+# Binary_trees
 This Project is about binary tree in C programming language
 # Tasks
 There are total of 42 task carried out in this project and each is explained below:
